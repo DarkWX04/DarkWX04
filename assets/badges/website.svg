@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="154" height="28" viewBox="0 0 154 28" role="img" aria-labelledby="title">
-  <title id="title">Web personal</title>
+  <title id="title">Personal website</title>
   <rect width="154" height="28" fill="#24292f"/>
   <g transform="translate(10 6)"><g fill="none" stroke="white" stroke-width="1.4"><circle cx="8" cy="8" r="6.5"/><ellipse cx="8" cy="8" rx="2.8" ry="6.5"/><path d="M1.5 8h13"/></g></g>
-  <text x="35" y="18" fill="white" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" letter-spacing="1">WEB PERSONAL</text>
+  <text x="35" y="18" fill="white" font-family="Verdana,DejaVu Sans,sans-serif" font-size="10" font-weight="bold" letter-spacing="1">WEBSITE</text>
 </svg>
