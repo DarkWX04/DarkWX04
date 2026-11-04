@@ -1,8 +1,8 @@
 # Hi, I'm Weixuan Sun 👋
 
-**Computer Engineering student and app developer based in Madrid.**
+**Computer Engineering student focusing on Cybersecurity, Networks, and iOS Development based in Madrid.**
 
-I turn small ideas into apps for everyday life. I'm a fourth-year Computer Engineering student at **Universidad Carlos III de Madrid**, building my own projects alongside my studies. I enjoy learning by doing and connecting the technical details with the experience of the people who use my apps.
+I'm a fourth-year Computer Engineering student at **Universidad Carlos III de Madrid (UC3M)**. Beyond the classroom, I am deeply driven by hands-on engineering: managing and hardening self-hosted server infrastructure exposed to the internet, and designing, developing, and publishing apps on the App Store. I love exploring how systems communicate, ensuring their security, and building reliable software from the ground up.
 
 [![Personal website](assets/badges/website.svg)](https://weixuansun.com)
 [![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/weixuansun04)
